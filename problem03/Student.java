@@ -31,7 +31,7 @@ class Student {
 	// return this.name + "(이)가" + this.major + "공부를 한다.";
 	// }
 
-	//String introduce() {
+	// String introduce() {
     // return "저는" + this.major + "" + this.grade + "학년" + "재학중인" + this.name + "입니다.";
 	//}
 
