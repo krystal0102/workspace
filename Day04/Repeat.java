@@ -9,7 +9,7 @@ public class Repeat {
 		
 		
 		//args 배열 내용을 출력
-		for (int i = 0; i < args.length; i++) {
+		for (int i =cd  i < args.length; i++) {
 			System.out.println(args[i]);
 		}
 	
