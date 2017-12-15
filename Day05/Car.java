@@ -4,7 +4,6 @@ class Car {
 	String color;
 	String type;
 	int year;
-	String name;
 	
 	
 	
