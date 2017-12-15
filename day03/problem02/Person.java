@@ -19,7 +19,7 @@ class Person {
 			this.family = family;	
 		}
 	
-		// 메서드 (Method)
+		// 메서드 (Method) -> 행동을 나타내는 것
 		// 무엇을 먹는다 ( 배부르다, 배고프다 )
 		String eat(String food) {
 			if (food.equals("빵")) {
