@@ -46,7 +46,9 @@ public class JavaTypes {
 		
 		//문자
 		char charVal = '야';
+		char charAscii = 65; //숫자로 입력해도 ASCII 코드에 의해 A로 출력됨
 		System.out.println(charVal);
+		System.out.println(charAscii);
 		
 		//부울
 		boolean isBoolt = true;
@@ -82,7 +84,8 @@ public class JavaTypes {
 		int intVal01 = (int)floatVal01; //float -> int 형변환
 		System.out.println(intVal01);
 		
-		int charNum = 'A'; // char -> int 형변환. 결과는 65로 출력됨. ASCII 코드에 따라 A는 65로 정해져있기 때문
+		int charNum = 'A'; // char -> int 형변환. 결과는 65로 출력됨. 
+						   // ASCII 코드에 따라 A는 65로 정해져있기 때문
 		System.out.println(charNum);
 		
 		//숫자를 문자형으로 변환해서 A-Z까지 출력
